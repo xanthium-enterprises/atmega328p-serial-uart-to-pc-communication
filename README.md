@@ -1,1 +1,2 @@
-# atmega328p-serial-uart-to-pc-communication
+# ATmega238p to PC Serial Communication using USART 
+
