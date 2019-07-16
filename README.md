@@ -15,6 +15,8 @@ A collection of sample codes for communicating with Linux/Windows PC from an ATm
 - Code tested on ATmega328p (32 pin TQFP).
 - ATmega328p Clocked with a **11.0592MHz external crystal**.
 - USB to Serial Converter used to connect ATmega328p with PC 
+- PuTTY used to receive and Transmit data
+- <img src = "https://www.xanthium.in/sites/default/files/site-images/atmega328p-usart-tutorial/atmega328p-serial-communication-pc.jpg"/>
 
 ## ATmega328p Clocking (Fuse Bits)
 - External 11.0592MHz Crystal
