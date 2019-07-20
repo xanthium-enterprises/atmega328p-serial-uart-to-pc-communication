@@ -27,4 +27,7 @@ A collection of sample codes for communicating with Linux/Windows PC from an ATm
 - <a href="https://www.xanthium.in/how-to-configuring-atmega328p-fuse-low-byte-embedded-design-use-external-crystal-fuse-settings">Configuring the ATmega328p Microcontroller to use external crystal</a>
 
 - <a href ="https://www.xanthium.in/how-to-avr-atmega328p-microcontroller-usart-uart-embedded-programming-avrgcc">ATmega328p USART serial communication tutorial</a>
+
+- <a href="https://www.xanthium.in/ft232-based-usb-to-serial-rs485-converter-industrial-scientific-applications">USB to Serial/RS485 Converter</a>
+
 - www.xanthium.in
